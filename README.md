@@ -1,4 +1,5 @@
 # Основы программирования. Лабораторная работа №3
+[![Build Status](https://travis-ci.org/z8432k/feodorov-base-coding-lab3-19.svg?branch=master)](https://travis-ci.org/z8432k/feodorov-base-coding-lab3-19)
 
 ## Программирование поразрядных операций
 
